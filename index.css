@@ -16,3 +16,13 @@ h3{
   color: #d65071;
   margin: .5em 0;
 }
+
+.skills ul{
+  margin: .5em 2em;
+  padding: 0 .5em;
+  line-height: 1.5em;
+}
+
+.education h4 i{
+  font-weight: 300;
+}
